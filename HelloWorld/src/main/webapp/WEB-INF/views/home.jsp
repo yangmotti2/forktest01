@@ -11,7 +11,7 @@ d<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 
 <P>  The time on the server is ${serverTime}. 
 
-아 졸려ㅇㅅ움ㄴㅇㅇ
+아 졸려ㅇㅅ움ㄴㅇㅇㅇㄴㄹㅇㄹ
 </P>
 </body>
 </html>
