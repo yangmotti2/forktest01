@@ -9,10 +9,7 @@ d<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 	Hello world!  나는 김민규
 </h1>
 
-<P>  The time on the server is ${serverTime}. 
-ㅇㅁㄴㄴㅇㅁㄴㅇ
+<P>  The time on the server is ${serverTime}.</P>
 
-아 졸려ㅇㅅ움ㄴㅇㅇㅇㄴㄹㅇㄹ
-</P>
 </body>
 </html>
