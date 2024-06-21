@@ -9,6 +9,9 @@ d<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 	Hello world!  asdasdasdasda
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}. 
+
+아 졸려
+</P>
 </body>
 </html>
